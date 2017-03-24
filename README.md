@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Application Installation Failed in Android Studio
+
+While installing android app through Android Studio
+
+-> Steps to Disable Instant Run form Android Studio
+
+File > Settings > Build,Execution,Deployment > Instant Run > Un-check (Enable Instant Run to hot swap code)
 
 You can use the [editor on GitHub](https://github.com/ChamokNathChoudhury/Android-Studio-Error/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
