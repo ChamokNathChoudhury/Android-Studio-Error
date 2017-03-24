@@ -4,12 +4,6 @@ While installing android app through Android Studio
 
 -> Steps to Disable Instant Run form Android Studio
 
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
 File > Settings > Build,Execution,Deployment > Instant Run > Un-check (Enable Instant Run to hot swap code)
 
