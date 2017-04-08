@@ -8,12 +8,10 @@ While installing android app through Android Studio
 -> Steps to Disable Instant Run form Android Studio
 
 ```markdown
-File > Settings > Build,Execution,Deployment > Instant Run > Un-check (Enable Instant Run to hot swap code)
-
-
+File > Settings > Build,Execution,Deployment > Instant Run > Un-check (Enable Instant Run to hot swap code)```
+```
 # Problem :
 ## Error in building project in Android Studio (Cache.properties (The system cannot find the file specified)
-)
 
 # Solution :
 ->  the solution was simply to delete all files inside the folder C:\Users\Dexter.gradle\caches\2.2.1\scripts\
